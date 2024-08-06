@@ -1,0 +1,1 @@
+# JAVASCRIPT-how-to-say-hello-world-in-document
